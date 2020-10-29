@@ -22,8 +22,7 @@ wiki：
 Deep Learning for the Gaussian Wiretap Channel
 https://github.com/Fritschek/NN_GWTC.git
 
-
-
+功率优化类
 
 
 
