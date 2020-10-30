@@ -24,10 +24,12 @@
 <kbd>paper：</kbd><kbd><https://ieeexplore.ieee.org/abstract/document/8669025></kbd>
 
 # 资源配置/功率优化类
+### 移动通信网络中的分布式电源控制器
+#### Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks
+<kbd>code:</kbd>  <kbd><https://github.com/sinannasir/Power-Control-asilomar.git></kbd>  
 
-# 
 
-
+<kbd>code:</kbd>  <kbd><></kbd>  
 # 待分类
 ### 车载毫米波系统信道协方差的产生式对抗估计
 #### Generative Adversarial Estimation of Channel Covariance in Vehicular Millimeter Wave Systems
