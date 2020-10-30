@@ -14,12 +14,12 @@ wiki：
 Deep Learning for the Gaussian Wiretap Channel
 https://github.com/Fritschek/NN_GWTC.git
 
-##在平坦衰减信道下基于深度学习的极性码
+## 在平坦衰减信道下基于深度学习的极性码
 Deep Learning for Polar Codes over Flat Fading Channels
 https://github.com/ade-irawan/polarOverFlatFading.git
 paper：https://ieeexplore.ieee.org/abstract/document/8669025
 
-#功率优化类 这类论文占到相当大比例
+# 功率优化类 这类论文占到相当大比例
 
 
 # 待分类
