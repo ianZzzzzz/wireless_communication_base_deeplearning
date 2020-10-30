@@ -28,6 +28,9 @@
 #### Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks
 <kbd>code:</kbd>  <kbd><https://github.com/sinannasir/Power-Control-asilomar.git></kbd>  
 
+### 基于奇异值分解的超波束成形  
+#### Deep Learning for SVD and Hybrid Beamforming  
+<kbd>code:</kbd>  <kbd><https://www.dropbox.com/sh/v0gs7ba0qq5x168/AACyqRoCz5m3fhpF-azkbn3Qa?dl=0></kbd>  
 
 <kbd>code:</kbd>  <kbd><></kbd>  
 # 待分类
