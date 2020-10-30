@@ -35,7 +35,7 @@
 <kbd>code:</kbd>  <kbd><></kbd>  
 # 待分类
 ### 车载毫米波系统信道协方差的产生式对抗估计
-#### Generative Adversarial Estimation of Channel Covariance in Vehicular Millimeter Wave Systems
+#### Generative Adversarial Estimation of Channel Covariance in Vehicular Millimeter Wave Systems  
 <kbd>code:</kbd>  <kbd><https://github.com/lxf8519/GAN-cov-matrix.git></kbd>
 
 ### 可拓展的无线资源管理图神经网络结构设计与理论分析
@@ -43,3 +43,5 @@
 
 <kbd>code:</kbd>  <kbd><https://github.com/yshenaw/GNN-Resource-Management.git></kbd>
  
+### Neural Mutual Information Estimation for Channel Coding: State-of-the-Art Estimators, Analysis, and Performance Comparison  
+<kbd>code:</kbd>  <kbd><https://github.com/Fritschek/Reverse-Jensen_MI_estimation.git></kbd>  
