@@ -24,6 +24,9 @@
 <kbd>paper：</kbd><kbd><https://ieeexplore.ieee.org/abstract/document/8669025></kbd>
 
 # 资源配置/功率优化类
+### 用于massive MIMO的共轭梯度下降网络
+#### Conjugate Gradient Descent Network for MassiveMIMO
+
 ### 移动通信网络中的分布式电源控制器
 #### Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks
 <kbd>code:</kbd>  <kbd><https://github.com/sinannasir/Power-Control-asilomar.git></kbd>  
